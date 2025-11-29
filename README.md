@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm HiiamSheep, I like to wander through weird corners of code, hardware and random ideas that probably shouldn't work.
+I'm HiiamSheep, I like to wander through weird corners of code, hardware and random ideas that probably shouldn't work.\
 If it's fun, low-level or even slightly ridiculous I'll probably test it, tweak it and make it behave... somehow.
 
 <sub>"Where chaos, curiosity and silliness meets"</sub>

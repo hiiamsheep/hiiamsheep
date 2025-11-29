@@ -3,7 +3,7 @@
 I'm HiiamSheep, I like to wander through weird corners of code, hardware and random ideas that probably shouldn't work.
 If it's fun, low-level or even slightly ridiculous I'll probably test it, tweak it and make it behave... somehow.
 
-~"Where chaos, curiosity and silliness meets"~
+<small>"Where chaos, curiosity and silliness meets"</small>
 
 <!--
 **hiiamsheep/hiiamsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
